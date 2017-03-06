@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfFilter", "EfFilter\EfFilter.csproj", "{061A4648-32DB-4D43-88ED-B8F085839FB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{E3BDBE94-6943-4663-B4E1-AC89BA034A6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.DataAccess", "Core.DataAccess\Core.DataAccess.csproj", "{B9F5AD8D-3669-4C5F-BD97-2359D89F1036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{061A4648-32DB-4D43-88ED-B8F085839FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{061A4648-32DB-4D43-88ED-B8F085839FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{061A4648-32DB-4D43-88ED-B8F085839FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{061A4648-32DB-4D43-88ED-B8F085839FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3BDBE94-6943-4663-B4E1-AC89BA034A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BDBE94-6943-4663-B4E1-AC89BA034A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BDBE94-6943-4663-B4E1-AC89BA034A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BDBE94-6943-4663-B4E1-AC89BA034A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F5AD8D-3669-4C5F-BD97-2359D89F1036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F5AD8D-3669-4C5F-BD97-2359D89F1036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F5AD8D-3669-4C5F-BD97-2359D89F1036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F5AD8D-3669-4C5F-BD97-2359D89F1036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
